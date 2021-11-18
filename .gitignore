@@ -1,0 +1,9 @@
+*.pyc
+db.sqlite3
+.idea
+media
+static/
+node_modules/
+eshop-ui/node_modules/
+eshop-ui/build/
+venv
